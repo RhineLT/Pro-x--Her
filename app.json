@@ -1,6 +1,6 @@
 {
-    "name": "Project-X",
-    "description": "ProjectX ws",
+    "name": "Pro-x--Her",
+    "description": "Pro-x--Her",
     "keywords": ["Https"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/RhineLT/Project-X-Her/",
-    "repository": "https://github.com/RhineLT/Project-X-Her/",
+    "website": "https://github.com/RhineLT/Pro-x--Her/",
+    "repository": "https://github.com/RhineLT/Pro-x--Her/",
     "stack": "container"
 }
